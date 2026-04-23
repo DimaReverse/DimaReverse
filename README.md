@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DimaReverse/DimaReverse/main/banner.png" />
+<img src="https://github.com/DimaReverse/DimaReverse/blob/main/banner.png" />
 
 # Dimitri Bordei
 
